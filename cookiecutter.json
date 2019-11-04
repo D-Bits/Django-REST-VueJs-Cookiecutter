@@ -1,6 +1,7 @@
 {
-    "project_name": "Enter a name for your Django project: ",
-    "app_name": "Enter a name for your project's first app: ",
+    "django_project_name": "Enter a name for your Django project: ",
+    "django_app_name": "Enter a name for your project's first app: ",
     "db_name": "",
-    "time_zone": "America/Vancouver"
+    "time_zone": "America/Vancouver",
+    "vue_app_name": "vue_app"
 }
