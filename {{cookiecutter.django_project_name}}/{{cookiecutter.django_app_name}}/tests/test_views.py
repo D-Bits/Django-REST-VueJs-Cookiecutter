@@ -1,4 +1,4 @@
 from django.test import TestCase
 
 
-# Tests for {{cookiecutter.app_name}} views
+# Tests for {{cookiecutter.django_app_name}} views
