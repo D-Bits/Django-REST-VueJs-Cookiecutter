@@ -1,5 +1,5 @@
 {
-  "name": "vue_app_name",
+  "name": "{{cookiecutter.vue_app_name}}",
   "version": "0.1.0",
   "private": true,
   "scripts": {
