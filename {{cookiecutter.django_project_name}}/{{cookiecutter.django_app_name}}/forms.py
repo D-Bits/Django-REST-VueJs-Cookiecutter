@@ -1,5 +1,5 @@
 from django import forms 
 
 """
-Form logic for {{cookiecutter.app_name}}
+Form logic for {{cookiecutter.django_app_name}}
 """
